@@ -1,3 +1,3 @@
 # yeah
-Well yeah, I guess
-Supposedly not though
+Well yeah, I guess.
+Supposedly not though.
